@@ -1,0 +1,11 @@
+C:\Users\Elgiz\source\repos\WorkWithFiles\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.exe
+C:\Users\Elgiz\source\repos\WorkWithFiles\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.deps.json
+C:\Users\Elgiz\source\repos\WorkWithFiles\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.runtimeconfig.json
+C:\Users\Elgiz\source\repos\WorkWithFiles\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.runtimeconfig.dev.json
+C:\Users\Elgiz\source\repos\WorkWithFiles\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.dll
+C:\Users\Elgiz\source\repos\WorkWithFiles\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.pdb
+C:\Users\Elgiz\source\repos\WorkWithFiles\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.csprojAssemblyReference.cache
+C:\Users\Elgiz\source\repos\WorkWithFiles\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.AssemblyInfoInputs.cache
+C:\Users\Elgiz\source\repos\WorkWithFiles\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.AssemblyInfo.cs
+C:\Users\Elgiz\source\repos\WorkWithFiles\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.dll
+C:\Users\Elgiz\source\repos\WorkWithFiles\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.pdb
